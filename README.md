@@ -5,7 +5,7 @@
 ---
 ## **A. Introduction**
 
-This project is a temperature check activity using Wokwi based on ESP32 Microcontroller and Visual Studio Code C++ programming language. The output of this simulation is display temperature  temperature, humidity & light intensity indicator
+This project is a temperature check activity using Wokwi based on ESP32 Microcontroller and Visual Studio Code C++ programming language. The output of this simulation is display temperature  temperature, humidity & light intensity indicator.
 
 ## **B. Diagram**
 This diagram was created using the ESP32 Microcontroller based Wokwi simulation.
